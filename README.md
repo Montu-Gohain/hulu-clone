@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- Preview Gif -->
 
-## Getting Started
+![Hulugif](https://github.com/Montu-Gohain/hulu-clone/assets/76866991/83e3d7b5-229b-4187-a449-abaf1e5770c1)
 
-First, run the development server:
+<!-- Project name and features -->
+
+# Project : Hulu Cone
+
+### Tech stack and Features
+
+- Nextjs ( React js )
+- Fetching data from TMDB API with Server side rendering
+- My first data fetch from an External API
+- Fully Responsive
+- Working on More features.
+
+<!-- Run it locally -->
+
+## Run it locally.
 
 ```bash
-npm run dev
-# or
-yarn dev
+ git clone https://github.com/Montu-Gohain/hulu-clone.git
+ yarn install
+ yarn run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- Preivew Screen shot -->
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![HuluDesktop](https://github.com/Montu-Gohain/hulu-clone/assets/76866991/ad85713a-41b2-4d4a-bc89-0f95b6b9c267)
+![MobileviewHulu](https://github.com/Montu-Gohain/hulu-clone/assets/76866991/80b59dfc-1a31-4bfd-9685-3e3c764d9187)
